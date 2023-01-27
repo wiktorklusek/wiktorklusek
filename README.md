@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiktorklusek
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Advanced Web Development with Big Data
+- 🌱 I’m currently learning Vue.js and TypeScript
 - 💞️ I’m looking to collaborate on MongoDB and NodeJS
 - 📫 How to reach me? Just add @yahoo.com to my username ;)
 
