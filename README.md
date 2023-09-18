@@ -8,9 +8,6 @@
 - 🎨 Infusing User Experience Design principles into my development journey, aiming for seamless interaction between users and data-driven applications.
 - 📊 Diving into Data Visualization techniques to transform raw data into captivating stories that speak volumes.
 - 🎙️ Podcasting my tech journey, sharing insights, lessons, and discoveries with an ever-growing digital audience.
-- 🛰️ Exploring Satellite Data integration to unveil hidden patterns and insights, enhancing the impact of Big Data in various domains.
-- 🧩 Experimenting with Augmented Reality to infuse an innovative dimension into Web Development and Big Data exploration.
-- 🌐 Exploring the crossroads of GraphQL and Microservices architecture to reshape the landscape of modern applications.
 - 📫 How to reach me? Just add @yahoo.com to my username ;)
 
 <!---
