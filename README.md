@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wiktorklusek
-- 📚 Learning C# and .NET for advanced API development to enhance my skills in cloud engineering.
-- 🌐 Using Docker and Kubernetes in DevOps to efficiently deploy applications in the cloud.
-- 🧠 Solving problems on LeetCode to build a strong foundation for handling complex tasks in cloud engineering.
+- 📚 Learning C# and .NET
+- 🧠 Solving problems on LeetCode
 - 📫 How to reach me? Just add @yahoo.com to my username ;)
 
 <!---
