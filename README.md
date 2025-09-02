@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiktorklusek
-- 📚 Learning C# and .NET
+- 📚 Learning Java and Spring Boot
 - 🧠 Solving problems on LeetCode
 - 📫 How to reach me? Just add @yahoo.com to my username ;)
 
