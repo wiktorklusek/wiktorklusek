@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wiktorklusek
 - 📚 Learning Java and Spring Boot
 - 🧠 Solving problems on LeetCode
-- 📫 How to reach me? Just add @yahoo.com to my username ;)
 
 <!---
 wiktorklusek/wiktorklusek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
